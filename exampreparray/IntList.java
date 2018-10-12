@@ -1,4 +1,4 @@
-package ExamPrep_LL_Array;
+package exampreparray;
 
 /* Suppose we have the following IntList class, as defined in lecture and lab, with an
 added skippify function.

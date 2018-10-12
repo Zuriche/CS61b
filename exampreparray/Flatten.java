@@ -1,4 +1,4 @@
-package ExamPrep_LL_Array;
+package exampreparray;
 
 /*To flatten a 2-D array to a 1-D array*/
 

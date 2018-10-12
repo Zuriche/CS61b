@@ -1,4 +1,4 @@
-package ExamPrep_LL_Array;
+package exampreparray;
 
 public class RemoveDuplicates {
     class IntList {
